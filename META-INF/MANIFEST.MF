@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven Source Plugin 3.2.1
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Security
+Bundle-SymbolicName: org.eclipse.jetty.security.source
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.4.46.v20220331
+Eclipse-SourceBundle: org.eclipse.jetty.security;version="9.4.46.v202203
+ 31";roots:="."
+
